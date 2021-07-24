@@ -1,0 +1,25 @@
+body {
+  text-align:center;
+  background-color:aqua;
+}
+#i {
+    height: 150px;
+    width: 150px;
+}
+#login {
+    color:turquoise;
+    background-color:khaki;
+    font-size:35px;
+    font-family:serif
+}
+#qwe {
+    font-family:cursive;
+}
+#button {
+    font-family:sans-serif;
+}
+#output {
+    background-color:rgb(209, 71, 71);
+    text-align:center;
+    border-radius:25px;
+}
